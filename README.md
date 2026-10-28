@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Zeyad 👋
 
-<!--
-**ZeyadAlmehmadi/ZeyadAlmehmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at King Abdulaziz University (KAU), Jeddah.
 
-Here are some ideas to get you started:
+## What I'm interested in
+- Embedded Systems
+- Digital Design and Computer Organization
+- Edge AI (running AI on small devices)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm doing now
+- Studying Computer Organization and Electronics
+- Helping organize a robotics workshop with the Electrical & Computer Engineering Club
+- Learning AI step by step
+- Improving my English every week
+
+## Skills I'm learning
+ESP32 • Arduino IDE • Logisim • Python
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/zeyad-almehmadi-8366033bb
